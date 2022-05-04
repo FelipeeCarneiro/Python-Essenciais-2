@@ -1,15 +1,12 @@
-Dados de teste
+#dados para testes
+lista = ['apos a sopa',
+'a sacada da casa',
+'a torre da derrota',
+'o lobo ama o bolo',
+'anotaram a data da maratona',
+'Ten animals I slam in a net',
+'Eleven animals I slam in a net',
+'a bola é redonda']
 
-Input de amostra:
-abcxyzABCxyz 123
-2
-
-Exemplo de output:
-cdezabCDEzab 123
-
-Input de amostra:
-The die is cast
-25
-
-Exemplo de output:
-Sgd chd hr bzrs
+if '__name__' == '__main__':
+    print('')
